@@ -14,7 +14,7 @@ test:
 docker_build:
 	docker build -t $(IMAGE)  .
 
-docker_run: docker_build
+docker_start: docker_build
 	docker run -d --name $(DOCKER_NAME) -p 8080:8080  $(IMAGE)
 
 docker_stop:

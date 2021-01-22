@@ -1,0 +1,11 @@
+# github.com/gorilla/mux v1.8.0
+## explicit
+github.com/gorilla/mux
+# github.com/sirupsen/logrus v1.7.0
+## explicit
+github.com/sirupsen/logrus
+# github.com/thynquest/fizzbuzz v0.0.0-20210105110043-29009d5bb408
+## explicit
+# golang.org/x/sys v0.0.0-20191204072324-ce4227a45e2e
+golang.org/x/sys/unix
+golang.org/x/sys/windows
